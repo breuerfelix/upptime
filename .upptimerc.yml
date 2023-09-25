@@ -8,6 +8,8 @@ sites:
   url: https://danielkueffler.de
 - name: lychee
   url: https://photos.felixbreuer.me
+- name: broken
+  url: https://somethingrandoom.random
 
 status-website:
   cname: breuer.dev
