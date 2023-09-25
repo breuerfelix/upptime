@@ -10,7 +10,7 @@ sites:
   url: https://photos.felixbreuer.me
 
 status-website:
-  cname: breuer.dev
+  #cname: breuer.dev
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
