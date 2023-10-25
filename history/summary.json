@@ -13,7 +13,7 @@
     "time": 132,
     "timeDay": 67,
     "timeWeek": 133,
-    "timeMonth": 132,
+    "timeMonth": 128,
     "timeYear": 132,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 888,
     "timeDay": 689,
     "timeWeek": 788,
-    "timeMonth": 888,
+    "timeMonth": 879,
     "timeYear": 888,
     "dailyMinutesDown": {}
   },
@@ -40,7 +40,7 @@
     "url": "https://photos.felixbreuer.me",
     "icon": "https://icons.duckduckgo.com/ip3/photos.felixbreuer.me.ico",
     "slug": "lychee",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,8 +49,10 @@
     "time": 715,
     "timeDay": 736,
     "timeWeek": 655,
-    "timeMonth": 715,
+    "timeMonth": 707,
     "timeYear": 715,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-25": 0
+    }
   }
 ]
