@@ -22,9 +22,9 @@
     "url": "https://danielkueffler.de",
     "icon": "https://icons.duckduckgo.com/ip3/danielkueffler.de.ico",
     "slug": "danielkueffler",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 861,
     "timeMonth": 812,
     "timeYear": 859,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-19": 0
+    }
   },
   {
     "name": "lychee",
@@ -41,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.felixbreuer.me.ico",
     "slug": "lychee",
     "status": "down",
-    "uptime": "55.61%",
+    "uptime": "55.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "20.82%",
-    "uptimeYear": "55.61%",
+    "uptimeMonth": "20.06%",
+    "uptimeYear": "55.37%",
     "time": 715,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 641,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2023-11-19": 11,
+      "2023-11-19": 343,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
