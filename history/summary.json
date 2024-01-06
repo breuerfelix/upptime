@@ -4,10 +4,10 @@
     "url": "https://breuer.dev",
     "icon": "https://icons.duckduckgo.com/ip3/breuer.dev.ico",
     "slug": "breuer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
@@ -15,7 +15,9 @@
     "timeWeek": 163,
     "timeMonth": 123,
     "timeYear": 123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-06": 1
+    }
   },
   {
     "name": "danielkueffler",
@@ -43,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.felixbreuer.me.ico",
     "slug": "lychee",
     "status": "down",
-    "uptime": "29.51%",
+    "uptime": "29.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.51%",
+    "uptimeYear": "29.35%",
     "time": 715,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2024-01-06": 10,
+      "2024-01-06": 791,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
