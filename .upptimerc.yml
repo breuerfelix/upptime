@@ -6,8 +6,8 @@ sites:
   url: https://breuer.dev
 - name: danielkueffler
   url: https://danielkueffler.de
-- name: lychee
-  url: https://photos.felixbreuer.me
+- name: yoga
+  url: https://yoga-amelie.de
 
 status-website:
   #cname: breuer.dev
