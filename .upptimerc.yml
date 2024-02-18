@@ -2,23 +2,27 @@ owner: breuerfelix
 repo: upptime
 
 sites:
-- name: breuer
+- name: My Homepage
   url: https://breuer.dev
-- name: danielkueffler
+- name: Daniels Photo Blog
   url: https://danielkueffler.de
-- name: yoga
+- name: Amelie Yoga Page
   url: https://yoga-amelie.de
+- name: Status Page
+  url: https://status.breuer.dev
 
 status-website:
-  #cname: breuer.dev
-  baseUrl: /upptime
+  cname: status.breuer.dev
+  baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Status Page
+  introTitle: "**Status Page** for all of my Services!"
+  introMessage: "Check out my [Blog](https://breuer.dev) or [GitHub](https://github.com/breuerfelix) for more Information."
   navbar:
   - title: Status
     href: /
+  - title: Blog
+    href: https://breuer.dev
   - title: GitHub
     href: https://github.com/$OWNER/$REPO
 
