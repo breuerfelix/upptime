@@ -6,8 +6,10 @@ sites:
   url: https://breuer.dev
 - name: Daniels Photo Blog
   url: https://danielkueffler.de
-- name: Amelie Yoga Page
+- name: Amelies Yoga Page
   url: https://yoga-amelie.de
+- name: CORSS
+  url: https://corss.breuer.dev
 - name: Status Page
   url: https://status.breuer.dev
 
