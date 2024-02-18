@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/corss.breuer.dev.ico",
     "slug": "corss",
     "status": "down",
-    "uptime": "3.43%",
-    "uptimeDay": "3.43%",
-    "uptimeWeek": "3.43%",
-    "uptimeMonth": "3.43%",
-    "uptimeYear": "3.43%",
+    "uptime": "2.96%",
+    "uptimeDay": "2.96%",
+    "uptimeWeek": "2.96%",
+    "uptimeMonth": "2.96%",
+    "uptimeYear": "2.96%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -79,18 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.breuer.dev.ico",
     "slug": "status-page",
     "status": "up",
-    "uptime": "1.74%",
-    "uptimeDay": "1.74%",
-    "uptimeWeek": "1.74%",
-    "uptimeMonth": "1.74%",
-    "uptimeYear": "1.74%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 65,
     "timeDay": 65,
     "timeWeek": 65,
     "timeMonth": 65,
     "timeYear": 65,
-    "dailyMinutesDown": {
-      "2024-02-18": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
