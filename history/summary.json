@@ -22,7 +22,7 @@
     "url": "https://danielkueffler.de",
     "icon": "https://icons.duckduckgo.com/ip3/danielkueffler.de.ico",
     "slug": "daniels-photo-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 780,
     "timeYear": 758,
     "dailyMinutesDown": {
+      "2024-09-04": 0,
       "2024-04-02": 16,
       "2024-02-28": 486,
       "2024-02-27": 622,
