@@ -4,9 +4,9 @@
     "url": "https://breuer.dev",
     "icon": "https://icons.duckduckgo.com/ip3/breuer.dev.ico",
     "slug": "my-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 165,
     "timeMonth": 148,
     "timeYear": 137,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-19": 0
+    }
   },
   {
     "name": "Daniels Photo Blog",
@@ -25,7 +27,7 @@
     "status": "up",
     "uptime": "98.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.73%",
+    "uptimeWeek": "77.99%",
     "uptimeMonth": "89.07%",
     "uptimeYear": "98.78%",
     "time": 791,
@@ -50,18 +52,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/yoga-amelie.de.ico",
     "slug": "amelies-yoga-page",
     "status": "down",
-    "uptime": "85.92%",
+    "uptime": "85.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "84.78%",
+    "uptimeYear": "84.74%",
     "time": 196,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-03-19": 14,
+      "2025-03-19": 242,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
