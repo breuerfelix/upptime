@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 154,
-    "timeDay": 247,
-    "timeWeek": 217,
-    "timeMonth": 176,
-    "timeYear": 163,
+    "time": 155,
+    "timeDay": 234,
+    "timeWeek": 224,
+    "timeMonth": 178,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   },
   {
@@ -27,11 +27,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.78%",
+    "uptimeYear": "98.93%",
     "time": 829,
-    "timeDay": 1058,
-    "timeWeek": 930,
-    "timeMonth": 861,
+    "timeDay": 890,
+    "timeWeek": 943,
+    "timeMonth": 866,
     "timeYear": 846,
     "dailyMinutesDown": {
       "2025-05-07": 21,
@@ -39,8 +39,7 @@
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 887,
-      "2024-10-12": 98,
-      "2024-09-05": 712
+      "2024-10-12": 98
     }
   },
   {
@@ -49,18 +48,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/yoga-amelie.de.ico",
     "slug": "amelies-yoga-page",
     "status": "down",
-    "uptime": "60.15%",
+    "uptime": "60.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.48%",
+    "uptimeYear": "38.21%",
     "time": 198,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2025-09-04": 14,
+      "2025-09-05": 14,
+      "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
@@ -300,9 +300,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 173,
-    "timeDay": 238,
-    "timeWeek": 221,
-    "timeMonth": 197,
+    "timeDay": 247,
+    "timeWeek": 225,
+    "timeMonth": 198,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2025-03-20": 75
@@ -319,10 +319,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 192,
-    "timeWeek": 157,
-    "timeMonth": 169,
+    "time": 169,
+    "timeDay": 255,
+    "timeWeek": 169,
+    "timeMonth": 170,
     "timeYear": 166,
     "dailyMinutesDown": {}
   }
