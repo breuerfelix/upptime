@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 173,
-    "timeDay": 224,
-    "timeWeek": 112,
-    "timeMonth": 144,
+    "timeDay": 65,
+    "timeWeek": 117,
+    "timeMonth": 141,
     "timeYear": 167,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "75.76%",
     "uptimeYear": "97.97%",
     "time": 899,
-    "timeDay": 1072,
-    "timeWeek": 847,
-    "timeMonth": 801,
+    "timeDay": 799,
+    "timeWeek": 844,
+    "timeMonth": 800,
     "timeYear": 910,
     "dailyMinutesDown": {
       "2026-05-12": 1152,
@@ -51,18 +51,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/yoga-amelie.de.ico",
     "slug": "amelies-yoga-page",
     "status": "down",
-    "uptime": "41.26%",
+    "uptime": "41.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 253,
+    "time": 258,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-20": 42,
+      "2026-05-21": 42,
+      "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
@@ -425,8 +426,7 @@
       "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
-      "2025-05-22": 1440,
-      "2025-05-21": 1440
+      "2025-05-22": 1440
     }
   },
   {
@@ -440,10 +440,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 184,
-    "timeDay": 245,
-    "timeWeek": 148,
-    "timeMonth": 173,
+    "time": 183,
+    "timeDay": 40,
+    "timeWeek": 135,
+    "timeMonth": 169,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2025-09-22": 23
@@ -461,10 +461,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 230,
-    "timeWeek": 144,
-    "timeMonth": 179,
-    "timeYear": 179,
+    "timeDay": 88,
+    "timeWeek": 143,
+    "timeMonth": 176,
+    "timeYear": 175,
     "dailyMinutesDown": {}
   }
 ]
