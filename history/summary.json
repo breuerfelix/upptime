@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 82,
-    "timeWeek": 134,
+    "timeDay": 175,
+    "timeWeek": 146,
     "timeMonth": 125,
     "timeYear": 165,
     "dailyMinutesDown": {}
@@ -26,13 +26,13 @@
     "uptime": "98.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.04%",
+    "uptimeMonth": "84.33%",
     "uptimeYear": "97.97%",
-    "time": 901,
-    "timeDay": 860,
-    "timeWeek": 900,
-    "timeMonth": 804,
-    "timeYear": 914,
+    "time": 902,
+    "timeDay": 1102,
+    "timeWeek": 941,
+    "timeMonth": 827,
+    "timeYear": 915,
     "dailyMinutesDown": {
       "2025-10-11": 54,
       "2026-05-12": 1152,
@@ -51,7 +51,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/yoga-amelie.de.ico",
     "slug": "amelies-yoga-page",
     "status": "down",
-    "uptime": "40.38%",
+    "uptime": "40.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -62,7 +62,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-07": 44,
+      "2026-06-08": 46,
+      "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -425,8 +426,7 @@
       "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
-      "2025-06-09": 1440,
-      "2025-06-08": 1440
+      "2025-06-09": 1440
     }
   },
   {
@@ -440,10 +440,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 183,
-    "timeDay": 181,
+    "time": 184,
+    "timeDay": 209,
     "timeWeek": 191,
-    "timeMonth": 155,
+    "timeMonth": 156,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2025-09-22": 23
@@ -461,10 +461,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 134,
-    "timeWeek": 180,
-    "timeMonth": 167,
-    "timeYear": 174,
+    "timeDay": 222,
+    "timeWeek": 189,
+    "timeMonth": 170,
+    "timeYear": 175,
     "dailyMinutesDown": {}
   }
 ]
