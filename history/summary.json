@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 162,
-    "timeWeek": 216,
-    "timeMonth": 177,
+    "timeDay": 163,
+    "timeWeek": 202,
+    "timeMonth": 179,
     "timeYear": 167,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/danielkueffler.de.ico",
     "slug": "daniels-photo-blog",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.97%",
     "time": 912,
-    "timeDay": 1097,
-    "timeWeek": 941,
-    "timeMonth": 946,
-    "timeYear": 936,
+    "timeDay": 608,
+    "timeWeek": 884,
+    "timeMonth": 940,
+    "timeYear": 935,
     "dailyMinutesDown": {
       "2025-10-11": 54,
       "2026-05-12": 1152,
@@ -51,7 +51,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/yoga-amelie.de.ico",
     "slug": "amelies-yoga-page",
     "status": "down",
-    "uptime": "35.47%",
+    "uptime": "35.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -62,7 +62,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-01": 227,
+      "2026-10-02": 226,
+      "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
@@ -425,8 +426,7 @@
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
-      "2025-10-03": 1440,
-      "2025-10-02": 1440
+      "2025-10-03": 1440
     }
   },
   {
@@ -441,8 +441,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 123,
-    "timeWeek": 180,
+    "timeDay": 145,
+    "timeWeek": 158,
     "timeMonth": 198,
     "timeYear": 195,
     "dailyMinutesDown": {}
@@ -459,9 +459,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 154,
-    "timeWeek": 136,
-    "timeMonth": 203,
+    "timeDay": 115,
+    "timeWeek": 129,
+    "timeMonth": 200,
     "timeYear": 176,
     "dailyMinutesDown": {}
   }
