@@ -22,10 +22,10 @@
     "url": "https://danielkueffler.de",
     "icon": "https://icons.duckduckgo.com/ip3/danielkueffler.de.ico",
     "slug": "daniels-photo-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "98.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.98%",
     "time": 904,
@@ -41,7 +41,8 @@
       "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
-      "2026-05-05": 826
+      "2026-05-05": 826,
+      "2026-10-25": 1
     }
   },
   {
@@ -50,7 +51,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/yoga-amelie.de.ico",
     "slug": "amelies-yoga-page",
     "status": "down",
-    "uptime": "34.60%",
+    "uptime": "34.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -61,7 +62,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-25": 175,
+      "2026-10-25": 1063,
       "2026-10-24": 1440,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
