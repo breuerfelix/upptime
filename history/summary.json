@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 176,
-    "timeWeek": 177,
-    "timeMonth": 156,
+    "timeDay": 123,
+    "timeWeek": 176,
+    "timeMonth": 155,
     "timeYear": 167,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "96.73%",
     "uptimeYear": "97.71%",
     "time": 903,
-    "timeDay": 1061,
-    "timeWeek": 789,
-    "timeMonth": 712,
+    "timeDay": 819,
+    "timeWeek": 818,
+    "timeMonth": 715,
     "timeYear": 919,
     "dailyMinutesDown": {
       "2026-05-12": 1152,
@@ -52,10 +52,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/yoga-amelie.de.ico",
     "slug": "amelies-yoga-page",
     "status": "down",
-    "uptime": "34.42%",
+    "uptime": "34.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -63,7 +63,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-30": 244,
+      "2026-10-31": 228,
+      "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
@@ -426,8 +427,7 @@
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
-      "2025-11-01": 1440,
-      "2025-10-31": 1440
+      "2025-11-01": 1440
     }
   },
   {
@@ -442,9 +442,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 194,
-    "timeWeek": 228,
-    "timeMonth": 220,
+    "timeDay": 139,
+    "timeWeek": 212,
+    "timeMonth": 217,
     "timeYear": 198,
     "dailyMinutesDown": {}
   },
@@ -459,11 +459,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 200,
-    "timeWeek": 178,
-    "timeMonth": 194,
-    "timeYear": 179,
+    "time": 177,
+    "timeDay": 72,
+    "timeWeek": 162,
+    "timeMonth": 190,
+    "timeYear": 178,
     "dailyMinutesDown": {}
   }
 ]
