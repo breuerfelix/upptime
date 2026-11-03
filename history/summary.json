@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 141,
-    "timeWeek": 143,
-    "timeMonth": 152,
+    "timeDay": 174,
+    "timeWeek": 151,
+    "timeMonth": 154,
     "timeYear": 167,
     "dailyMinutesDown": {}
   },
@@ -25,13 +25,13 @@
     "status": "up",
     "uptime": "98.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.92%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "96.73%",
     "uptimeYear": "97.71%",
-    "time": 904,
-    "timeDay": 1102,
-    "timeWeek": 882,
-    "timeMonth": 721,
+    "time": 903,
+    "timeDay": 783,
+    "timeWeek": 935,
+    "timeMonth": 728,
     "timeYear": 919,
     "dailyMinutesDown": {
       "2026-05-12": 1152,
@@ -52,7 +52,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/yoga-amelie.de.ico",
     "slug": "amelies-yoga-page",
     "status": "down",
-    "uptime": "34.32%",
+    "uptime": "34.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -63,7 +63,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-02": 241,
+      "2026-11-03": 302,
+      "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
@@ -426,8 +427,7 @@
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
-      "2025-11-04": 1440,
-      "2025-11-03": 1440
+      "2025-11-04": 1440
     }
   },
   {
@@ -442,10 +442,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 402,
-    "timeWeek": 215,
-    "timeMonth": 226,
-    "timeYear": 198,
+    "timeDay": 230,
+    "timeWeek": 228,
+    "timeMonth": 228,
+    "timeYear": 199,
     "dailyMinutesDown": {}
   },
   {
@@ -460,8 +460,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 263,
-    "timeWeek": 170,
+    "timeDay": 173,
+    "timeWeek": 175,
     "timeMonth": 195,
     "timeYear": 179,
     "dailyMinutesDown": {}
